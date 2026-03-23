@@ -15,4 +15,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Thirukumaran07/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Thirukumaran07/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Thirukumaran07/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Thirukumaran07/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
