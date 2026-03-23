@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Thirukumaran07/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Thirukumaran07/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Thirukumaran07/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Two Pointers
@@ -29,4 +30,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Thirukumaran07/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Thirukumaran07/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Thirukumaran07/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
