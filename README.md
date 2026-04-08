@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Thirukumaran07/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Thirukumaran07/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Thirukumaran07/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/Thirukumaran07/Leetcode/tree/main/0169-majority-element/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Thirukumaran07/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Thirukumaran07/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thirukumaran07/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0169-majority-element](https://github.com/Thirukumaran07/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/Thirukumaran07/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Thirukumaran07/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1472-design-browser-history](https://github.com/Thirukumaran07/Leetcode/tree/main/1472-design-browser-history/) | Medium |
@@ -83,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Thirukumaran07/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0169-majority-element](https://github.com/Thirukumaran07/Leetcode/tree/main/0169-majority-element/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,9 +106,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Thirukumaran07/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/Thirukumaran07/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Thirukumaran07/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thirukumaran07/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Thirukumaran07/Leetcode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
