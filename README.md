@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Thirukumaran07/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/Thirukumaran07/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Thirukumaran07/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0724-find-pivot-index](https://github.com/Thirukumaran07/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1472-design-browser-history](https://github.com/Thirukumaran07/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -116,4 +117,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Thirukumaran07/Leetcode/tree/main/0169-majority-element/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0724-find-pivot-index](https://github.com/Thirukumaran07/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
