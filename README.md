@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Thirukumaran07/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/Thirukumaran07/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Thirukumaran07/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Thirukumaran07/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thirukumaran07/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -132,6 +133,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Thirukumaran07/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0125-valid-palindrome](https://github.com/Thirukumaran07/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Thirukumaran07/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Thirukumaran07/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
