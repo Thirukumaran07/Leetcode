@@ -16,10 +16,10 @@ class Solution {
         for(int i=0;i<s.length();i++){
             int cur = romVal(s.charAt(i));
             if(i+1<s.length()&&cur<romVal(s.charAt(i+1))){
-                val -= cur;
+                val = val - cur;
             }
             else{
-                val += cur;
+                val = val + cur;
             }
         }
         return val;
