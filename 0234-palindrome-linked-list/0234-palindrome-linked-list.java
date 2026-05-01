@@ -26,13 +26,12 @@ class Solution {
             return true;
         }
         ListNode s = head,f=head;
-        while(f.next!=null && f.next.next!=null){
+        while(f!=null && f.next!=null){
             s=s.next;
             f=f.next.next;
         }
         ListNode fh = head;
-        ListNode sh = Rev(s.next);
-        s.next = null;
+        ListNode sh = Rev(s);
         while(fh!=null && sh!=null){
             if(fh.val!=sh.val){
                 return false;
