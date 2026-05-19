@@ -13,7 +13,7 @@ class Solution {
         if(head==null){ return head;}
         ListNode odd =head;
         ListNode even = head.next;
-        ListNode temp = even;
+        ListNode temp = even; 
         while(even!=null && even.next!=null){
             odd.next = even.next;
             odd = odd.next;
