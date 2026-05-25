@@ -5,7 +5,7 @@ class Solution
         Queue<Integer> rad = new LinkedList<>();
         Queue<Integer> dir = new LinkedList<>();
         int n=senate.length();
-        for(int i=0;i<n;i++)
+        for(int i=0;i<senate.length();i++)
         {
             if(senate.charAt(i)=='R')
             {
