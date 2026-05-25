@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/Thirukumaran07/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Thirukumaran07/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Thirukumaran07/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0649-dota2-senate](https://github.com/Thirukumaran07/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Thirukumaran07/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Thirukumaran07/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Thirukumaran07/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Thirukumaran07/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0649-dota2-senate](https://github.com/Thirukumaran07/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -207,4 +209,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Thirukumaran07/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0649-dota2-senate](https://github.com/Thirukumaran07/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 <!---LeetCode Topics End-->
