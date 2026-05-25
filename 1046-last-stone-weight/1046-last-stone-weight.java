@@ -11,6 +11,6 @@ class Solution {
                 q.offer(a-b);
             }
         }
-        return q.isEmpty()?0:q.poll();
+        return q.isEmpty()?0:q.peek();
     }
 }
