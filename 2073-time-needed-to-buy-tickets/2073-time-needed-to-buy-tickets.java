@@ -6,7 +6,7 @@ class Solution {
         Queue<int[]> q = new LinkedList<>();
 
         for (int i = 0; i < tickets.length; i++) {
-            q.offer(new int[]{i, tickets[i]});
+            q.offer(new int[] { i, tickets[i] });
         }
 
         int time = 0;
@@ -29,7 +29,7 @@ class Solution {
 
             } else {
 
-                q.offer(new int[]{index, remaining});
+                q.offer(new int[] { index, remaining });
             }
         }
 
