@@ -1,10 +1,11 @@
-class Solution {
-    
-    public String predictPartyVictory(String senate) {
-        Queue<Integer>rad = new LinkedList<>();
-        Queue<Integer>dir = new LinkedList<>();
-        int n = senate.length();
-        for(int i = 0;i<senate.length();i++)
+class Solution 
+{
+    public String predictPartyVictory(String senate) 
+    {
+        Queue<Integer> rad = new LinkedList<>();
+        Queue<Integer> dir = new LinkedList<>();
+        int n=senate.length();
+        for(int i=0;i<n;i++)
         {
             if(senate.charAt(i)=='R')
             {
@@ -15,17 +16,17 @@ class Solution {
                 dir.offer(i);
             }
         }
-        while(!rad .isEmpty()&&!dir.isEmpty())
+        while(!rad.isEmpty() && !dir.isEmpty())
         {
             int r = rad.poll();
             int d = dir.poll();
             if(r<d)
             {
-                rad.offer(r+senate.length());
+                rad.offer(r+n);
             }
             else
             {
-                dir.offer(d+senate.length());
+                dir.offer(d+n);
             }
         }
         return rad.isEmpty()?"Dire":"Radiant";
