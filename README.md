@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/Thirukumaran07/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Thirukumaran07/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Thirukumaran07/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Thirukumaran07/Leetcode/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1472-design-browser-history](https://github.com/Thirukumaran07/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Thirukumaran07/Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Thirukumaran07/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Thirukumaran07/Leetcode/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
