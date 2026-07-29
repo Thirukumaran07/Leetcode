@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0950-reveal-cards-in-increasing-order](https://github.com/Thirukumaran07/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Thirukumaran07/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Thirukumaran07/Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Thirukumaran07/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0649-dota2-senate](https://github.com/Thirukumaran07/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Thirukumaran07/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [2027-minimum-moves-to-convert-string](https://github.com/Thirukumaran07/Leetcode/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Thirukumaran07/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -292,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Thirukumaran07/Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Thirukumaran07/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
