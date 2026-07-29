@@ -8,24 +8,30 @@ class Solution {
             freq[c-'a']++;
         }
         String t = "";
+        String r = "";
         char n = '0';
         for(int i=0;i<freq.length;i++){
             if(freq[i]%2==1){
                 n = (char)(i+97);
                 freq[i]--;
             }
+            char z = (char)(i+97);
+            String u = "";
+            u+=z;
             int v = freq[i]/2;
-            while(v>0){
-                char x = (char)(i+97);
-                t += String.valueOf(x);
-                v--;
-            }
+            u = u.repeat(v);
+            t += u;
+            r = u+r;
+            // while(v>0){
+            //     char x = (char)(i+97);
+            //     t += String.valueOf(x);
+            //     u = x+u;
+            //     v--;
+            // }
         }
-        StringBuilder u = new StringBuilder(t);
-        u = u.reverse();
         if(n!='0'){
             t+=String.valueOf(n);
         }
-        return t+u.toString();
+        return t+r;
     }
 }
