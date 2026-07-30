@@ -11,7 +11,7 @@ class Solution {
             else if(nn>smx){
                 smx = nn;
             }        
-            n = n/10;
+            n /= 10;
         }
         return max*smx;
     }
