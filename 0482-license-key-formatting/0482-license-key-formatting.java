@@ -1,19 +1,19 @@
 class Solution {
     public String licenseKeyFormatting(String s, int k) {
-
-        s = s.replaceAll("-", "").toUpperCase();
-        if (s.length() == 0)
-            return "";
-        String res = " ";
+        StringBuilder res = new StringBuilder();
+        int count = 0;
         for(int i=s.length()-1;i>=0;i--){
             char c = s.charAt(i);
-            if(res.length()%(k+1)==0){
-                res += "-";
+            if(c == '-'){
+                continue;
             }
-            res += c+"";
+            if(count == k){
+                res.append("-");
+                count = 0;
+            }
+            res.append(Character.toUpperCase(c));
+            count++;
         }
-        StringBuilder str = new StringBuilder(res);
-        System.out.println(str.reverse());
-        return str.toString().replace(" ","");
+        return res.reverse().toString();
     }
 }
