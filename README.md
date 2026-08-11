@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Thirukumaran07/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Thirukumaran07/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Thirukumaran07/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0567-permutation-in-string](https://github.com/Thirukumaran07/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Thirukumaran07/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Thirukumaran07/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Thirukumaran07/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0567-permutation-in-string](https://github.com/Thirukumaran07/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Thirukumaran07/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Thirukumaran07/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Thirukumaran07/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -233,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/Thirukumaran07/Leetcode/tree/main/0394-decode-string/) | Medium |
 | [0482-license-key-formatting](https://github.com/Thirukumaran07/Leetcode/tree/main/0482-license-key-formatting/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Thirukumaran07/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0567-permutation-in-string](https://github.com/Thirukumaran07/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0649-dota2-senate](https://github.com/Thirukumaran07/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Thirukumaran07/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [2027-minimum-moves-to-convert-string](https://github.com/Thirukumaran07/Leetcode/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
@@ -322,4 +325,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Thirukumaran07/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0567-permutation-in-string](https://github.com/Thirukumaran07/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 <!---LeetCode Topics End-->
