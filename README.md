@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Thirukumaran07/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Thirukumaran07/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Thirukumaran07/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Thirukumaran07/Leetcode/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1472-design-browser-history](https://github.com/Thirukumaran07/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Thirukumaran07/Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Thirukumaran07/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Thirukumaran07/Leetcode/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Thirukumaran07/Leetcode/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -280,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2027-minimum-moves-to-convert-string](https://github.com/Thirukumaran07/Leetcode/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Thirukumaran07/Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Thirukumaran07/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Thirukumaran07/Leetcode/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
