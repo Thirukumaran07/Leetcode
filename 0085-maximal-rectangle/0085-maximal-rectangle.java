@@ -1,43 +1,25 @@
 class Solution {
     public int maximalRectangle(char[][] matrix) {
-        if (matrix == null || matrix.length == 0 || matrix[0].length == 0)
+        if(matrix==null || matrix.length==0||matrix[0].length==0){
             return 0;
-        int M = matrix.length;
-        int N = matrix[0].length;
-        int[][] mat = new int[M][N];
-        for (int i = 0; i < M; i++) {
-            for (int j = 0; j < N; j++) {
-                mat[i][j] = matrix[i][j] - '0';
-            }
         }
-        for (int i = 0; i < M; i++) {
-            for (int j = 1; j < N; j++) {
-                if (mat[i][j] == 1) {
-                    mat[i][j] += mat[i][j - 1];
+        int row = matrix.length;
+        int col = matrix[0].length;
+        int[] heights = new int [col+1];
+        int max = 0;
+        for(char[] ro:matrix){
+            for(int i=0;i<col;i++){
+                heights[i] = (ro[i]=='1')?heights[i]+1:0;
+            }
+            int n = heights.length;
+            for(int i=0;i<n;i++){
+                for(int j=i,minh = Integer.MAX_VALUE;j<n;j++){
+                    minh = Math.min(minh,heights[j]);
+                    int area = minh * (j-i+1);
+                    max = Math.max(max,area);
                 }
             }
         }
-        int Ans = 0;
-        for (int j = 0; j < N; j++) {
-            for (int i = 0; i < M; i++) {
-                int width = mat[i][j];
-                if (width == 0) continue;
-
-                // expand downward
-                int currWidth = width;
-                for (int k = i; k < M && mat[k][j] > 0; k++) {
-                    currWidth = Math.min(currWidth, mat[k][j]);
-                    int height = k - i + 1;
-                    Ans = Math.max(Ans, currWidth * height);
-                }
-                currWidth = width;
-                for (int k = i; k >= 0 && mat[k][j] > 0; k--) {
-                    currWidth = Math.min(currWidth, mat[k][j]);
-                    int height = i - k + 1;
-                    Ans = Math.max(Ans, currWidth * height);
-                }
-            }
-        }
-        return Ans;
+        return max;
     }
 }
