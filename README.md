@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Thirukumaran07/Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Thirukumaran07/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Thirukumaran07/Leetcode/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/Thirukumaran07/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Thirukumaran07/Leetcode/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Thirukumaran07/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Thirukumaran07/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Thirukumaran07/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/Thirukumaran07/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
