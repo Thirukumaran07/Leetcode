@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Thirukumaran07/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Thirukumaran07/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Thirukumaran07/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Thirukumaran07/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0155-min-stack](https://github.com/Thirukumaran07/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Thirukumaran07/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Thirukumaran07/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Thirukumaran07/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0041-first-missing-positive](https://github.com/Thirukumaran07/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Thirukumaran07/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Thirukumaran07/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Thirukumaran07/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thirukumaran07/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Thirukumaran07/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -224,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Thirukumaran07/Leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/Thirukumaran07/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Thirukumaran07/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thirukumaran07/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0413-arithmetic-slices](https://github.com/Thirukumaran07/Leetcode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Thirukumaran07/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -341,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/Thirukumaran07/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0200-number-of-islands](https://github.com/Thirukumaran07/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -351,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Thirukumaran07/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Thirukumaran07/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0402-remove-k-digits](https://github.com/Thirukumaran07/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
