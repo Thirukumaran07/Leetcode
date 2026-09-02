@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/Thirukumaran07/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Thirukumaran07/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Thirukumaran07/Leetcode/tree/main/0394-decode-string/) | Medium |
+| [0402-remove-k-digits](https://github.com/Thirukumaran07/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [1472-design-browser-history](https://github.com/Thirukumaran07/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Thirukumaran07/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Thirukumaran07/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0394-decode-string](https://github.com/Thirukumaran07/Leetcode/tree/main/0394-decode-string/) | Medium |
+| [0402-remove-k-digits](https://github.com/Thirukumaran07/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0482-license-key-formatting](https://github.com/Thirukumaran07/Leetcode/tree/main/0482-license-key-formatting/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Thirukumaran07/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/Thirukumaran07/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
@@ -287,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Thirukumaran07/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0402-remove-k-digits](https://github.com/Thirukumaran07/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0649-dota2-senate](https://github.com/Thirukumaran07/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Thirukumaran07/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [2027-minimum-moves-to-convert-string](https://github.com/Thirukumaran07/Leetcode/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
@@ -336,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Thirukumaran07/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0402-remove-k-digits](https://github.com/Thirukumaran07/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
