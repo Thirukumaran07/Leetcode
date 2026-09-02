@@ -227,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0010-regular-expression-matching](https://github.com/Thirukumaran07/Leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/Thirukumaran07/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Thirukumaran07/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0115-distinct-subsequences](https://github.com/Thirukumaran07/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thirukumaran07/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0413-arithmetic-slices](https://github.com/Thirukumaran07/Leetcode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Thirukumaran07/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -257,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/Thirukumaran07/Leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0058-length-of-last-word](https://github.com/Thirukumaran07/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/Thirukumaran07/Leetcode/tree/main/0067-add-binary/) | Easy |
+| [0115-distinct-subsequences](https://github.com/Thirukumaran07/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/Thirukumaran07/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Thirukumaran07/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Thirukumaran07/Leetcode/tree/main/0242-valid-anagram/) | Easy |
