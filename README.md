@@ -342,4 +342,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Thirukumaran07/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Thirukumaran07/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0567-permutation-in-string](https://github.com/Thirukumaran07/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Thirukumaran07/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
