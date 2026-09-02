@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Thirukumaran07/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Thirukumaran07/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Thirukumaran07/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [2367-number-of-arithmetic-triplets](https://github.com/Thirukumaran07/Leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Thirukumaran07/Leetcode/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/Thirukumaran07/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Thirukumaran07/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Thirukumaran07/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/Thirukumaran07/Leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Thirukumaran07/Leetcode/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1472-design-browser-history](https://github.com/Thirukumaran07/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Thirukumaran07/Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Thirukumaran07/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/Thirukumaran07/Leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Thirukumaran07/Leetcode/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Thirukumaran07/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Thirukumaran07/Leetcode/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
@@ -368,4 +371,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Thirukumaran07/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/Thirukumaran07/Leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 <!---LeetCode Topics End-->
