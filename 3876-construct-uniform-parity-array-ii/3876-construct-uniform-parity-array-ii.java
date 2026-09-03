@@ -8,6 +8,6 @@ class Solution {
                 alleven = false;
             }
         }
-        return alleven || n%2==1;
+        return alleven || n%2==01;
     }
 }
