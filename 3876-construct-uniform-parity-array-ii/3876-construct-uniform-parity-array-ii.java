@@ -1,19 +1,13 @@
 class Solution {
     public boolean uniformArray(int[] nums1) {
         int n=Integer.MAX_VALUE;
+        boolean alleven = true;
         for(int i:nums1){
+            n = Math.min(n, i);
             if(i%2==1){
-                n = Math.min(n, i);
+                alleven = false;
             }
         }
-        if(n == Integer.MAX_VALUE){
-            return true;
-        }
-        for(int i:nums1){
-            if(i % 2 == 0 && i <= n){
-                return false;
-            }
-        }
-        return true;
+        return alleven || n%2==1;
     }
 }
