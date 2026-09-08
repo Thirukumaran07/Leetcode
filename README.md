@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Thirukumaran07/Leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0413-arithmetic-slices](https://github.com/Thirukumaran07/Leetcode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Thirukumaran07/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/Thirukumaran07/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Thirukumaran07/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0649-dota2-senate](https://github.com/Thirukumaran07/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Thirukumaran07/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/Thirukumaran07/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [2027-minimum-moves-to-convert-string](https://github.com/Thirukumaran07/Leetcode/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Thirukumaran07/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Thirukumaran07/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
