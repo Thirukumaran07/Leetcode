@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0413-arithmetic-slices](https://github.com/Thirukumaran07/Leetcode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0414-third-maximum-number](https://github.com/Thirukumaran07/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/Thirukumaran07/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0518-coin-change-ii](https://github.com/Thirukumaran07/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Thirukumaran07/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Thirukumaran07/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0724-find-pivot-index](https://github.com/Thirukumaran07/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Thirukumaran07/Leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0413-arithmetic-slices](https://github.com/Thirukumaran07/Leetcode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Thirukumaran07/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0518-coin-change-ii](https://github.com/Thirukumaran07/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Thirukumaran07/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
@@ -384,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Thirukumaran07/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0518-coin-change-ii](https://github.com/Thirukumaran07/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -396,4 +399,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Thirukumaran07/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0518-coin-change-ii](https://github.com/Thirukumaran07/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 <!---LeetCode Topics End-->
