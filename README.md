@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-middle-of-the-linked-list](https://github.com/Thirukumaran07/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Thirukumaran07/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Thirukumaran07/Leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Thirukumaran07/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Thirukumaran07/Leetcode/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/Thirukumaran07/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/Thirukumaran07/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Thirukumaran07/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Thirukumaran07/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/Thirukumaran07/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Thirukumaran07/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [2027-minimum-moves-to-convert-string](https://github.com/Thirukumaran07/Leetcode/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Thirukumaran07/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Thirukumaran07/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Thirukumaran07/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Trie
@@ -329,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/Thirukumaran07/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [2027-minimum-moves-to-convert-string](https://github.com/Thirukumaran07/Leetcode/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Thirukumaran07/Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Thirukumaran07/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Thirukumaran07/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Thirukumaran07/Leetcode/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 ## Quickselect
