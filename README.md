@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Thirukumaran07/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Thirukumaran07/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/Thirukumaran07/Leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0075-sort-colors](https://github.com/Thirukumaran07/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Thirukumaran07/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Thirukumaran07/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Thirukumaran07/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/Thirukumaran07/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Thirukumaran07/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0056-merge-intervals](https://github.com/Thirukumaran07/Leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/Thirukumaran07/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Thirukumaran07/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Thirukumaran07/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Thirukumaran07/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Thirukumaran07/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Thirukumaran07/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0056-merge-intervals](https://github.com/Thirukumaran07/Leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/Thirukumaran07/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Thirukumaran07/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Thirukumaran07/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thirukumaran07/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -433,4 +436,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Thirukumaran07/Leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/Thirukumaran07/Leetcode/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Thirukumaran07/Leetcode/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
