@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Thirukumaran07/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Thirukumaran07/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Thirukumaran07/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thirukumaran07/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Thirukumaran07/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Thirukumaran07/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/Thirukumaran07/Leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0413-arithmetic-slices](https://github.com/Thirukumaran07/Leetcode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0414-third-maximum-number](https://github.com/Thirukumaran07/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/Thirukumaran07/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thirukumaran07/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0518-coin-change-ii](https://github.com/Thirukumaran07/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Thirukumaran07/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Thirukumaran07/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
