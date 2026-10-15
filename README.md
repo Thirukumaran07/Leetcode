@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Thirukumaran07/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Thirukumaran07/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/Thirukumaran07/Leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Thirukumaran07/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Thirukumaran07/Leetcode/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Thirukumaran07/Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Thirukumaran07/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Thirukumaran07/Leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Thirukumaran07/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Thirukumaran07/Leetcode/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Thirukumaran07/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Thirukumaran07/Leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -466,4 +468,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Thirukumaran07/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Thirukumaran07/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Thirukumaran07/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
