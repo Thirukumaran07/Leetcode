@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Thirukumaran07/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0041-first-missing-positive](https://github.com/Thirukumaran07/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Thirukumaran07/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0046-permutations](https://github.com/Thirukumaran07/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0056-merge-intervals](https://github.com/Thirukumaran07/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Thirukumaran07/Leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0075-sort-colors](https://github.com/Thirukumaran07/Leetcode/tree/main/0075-sort-colors/) | Medium |
@@ -477,4 +478,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Thirukumaran07/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/Thirukumaran07/Leetcode/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
